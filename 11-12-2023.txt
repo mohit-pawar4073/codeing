@@ -1,0 +1,8 @@
+Understand the structure of .git folder
+2. Initialize an empty repoitory for your project
+3. Adding the file in staging area
+4. Commiting the file
+5. Adding multiple files
+
+1.Create develop branch,QA branch then merge it back into the master.
+2.Create a branch from develop branch and merge only in develop branch.
